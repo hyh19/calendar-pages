@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:calendar_pages/main.dart';
+import 'package:fitnexa_app_external_resources/main.dart';
 
 // For checking internet connectivity
 abstract class NetworkInfoI {

@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         translations: AppLocalization(),
         locale: Get.deviceLocale,
         fallbackLocale: Locale('en', 'US'),
-        title: 'calendar_pages',
+        title: 'fitnexa_app_external_resources',
         initialRoute: AppRoutes.initialRoute,
         getPages: AppRoutes.pages,
       );
